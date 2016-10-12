@@ -1,11 +1,6 @@
 # web-app
 Web conversion to Android applications
 
-
-
-# web-app
-Web conversion to Android applications
-
 We recommend the use of Andriod Studio
 
 1.
